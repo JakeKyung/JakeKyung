@@ -8,6 +8,7 @@
 - 👀 단순 참고용이자 새로운 언어와 환경을 학습하고 습득하면서 Refresh 하기 위한 장소일뿐입니다.
 - 🌱 I’m currently learning Node.js, java, Spring, etc.... 
 - 📫 How to reach me Feel free to email em at cokolavel@gmail.com
+- https://gist.github.com/JakeKyung
 
 <!---
 JakeKyung/JakeKyung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
