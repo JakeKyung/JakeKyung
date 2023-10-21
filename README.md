@@ -45,9 +45,10 @@
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
     </div>
-    <!-- Others -->
-    <p><strong>Others</strong></p>
+    <!-- Framework -->
+    <p><strong>Framework</strong></p>
     <div>
+      <img src ="https://img.shields.io/badge/codeigniter-EF4223.svg?&style=for-the-badge&logo=codeigniter&logoColor=white"/>
       <img src ="https://img.shields.io/badge/Nest.js-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
       <img src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>
     </div>
